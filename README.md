@@ -6,3 +6,4 @@
 - Regresión. Modelos de regresión lineal para aproximar el año de las fotografías.
 - Aplicación. Notebook necesario para levantar la aplicación en Binder.
 - Clasificación de imágenes antiguas (pdf y pptx). Presentación realizada en clase para mostrar el trabajo a los compañeros.
+- PruebaAplicación (pdf). Muestra de la aplicación, comparando los diferentes modelos para las mismas imágenes.
