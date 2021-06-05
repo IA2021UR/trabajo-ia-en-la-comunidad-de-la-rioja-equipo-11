@@ -1,0 +1,9 @@
+Informe: 
+Calidad del trabajo base buena.
+Distintas ampliaciones:
+- Modelos de regresión.
+- Estudio de distintas arquitecturas.
+- Aplicación.
+Calidad de la presentación muy buena (con todas las complicaciones que hubo).
+Nota sobre 10: 10
+Nota: 2.5
